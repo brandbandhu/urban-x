@@ -1,0 +1,198 @@
+[
+  {
+    "slug": "catering",
+    "companyName": "UrbanX Catering",
+    "missionStatement": "To create memorable dining experiences with reliable service, thoughtful menus, and seamless event execution.",
+    "services": [
+      {
+        "slug": "wedding-catering",
+        "title": "Wedding Catering",
+        "description": "Full-service wedding catering with customized menus, live counters, buffet service, and guest-focused hospitality."
+      },
+      {
+        "slug": "corporate-events",
+        "title": "Corporate Events",
+        "description": "Professional catering for office lunches, conferences, product launches, and formal business gatherings."
+      },
+      {
+        "slug": "private-parties",
+        "title": "Private Parties",
+        "description": "Flexible food and beverage service for birthdays, anniversaries, family celebrations, and intimate gatherings."
+      },
+      {
+        "slug": "meal-packages",
+        "title": "Meal Packages",
+        "description": "Pre-planned breakfast, lunch, snack, and dinner packages for recurring events or large group requirements."
+      }
+    ],
+    "formFields": [
+      {
+        "name": "eventDate",
+        "label": "Event Date",
+        "type": "date"
+      },
+      {
+        "name": "guestCount",
+        "label": "Guest Count",
+        "type": "number"
+      },
+      {
+        "name": "eventType",
+        "label": "Event Type",
+        "type": "text"
+      },
+      {
+        "name": "menuPreference",
+        "label": "Menu Preference",
+        "type": "text"
+      }
+    ]
+  },
+  {
+    "slug": "housekeeping",
+    "companyName": "UrbanX Housekeeping",
+    "missionStatement": "To maintain clean, safe, and efficient spaces through dependable housekeeping teams and structured service routines.",
+    "services": [
+      {
+        "slug": "residential-cleaning",
+        "title": "Residential Cleaning",
+        "description": "Routine and deep cleaning for apartments, villas, and independent homes with trained housekeeping staff."
+      },
+      {
+        "slug": "commercial-cleaning",
+        "title": "Commercial Cleaning",
+        "description": "Daily cleaning and sanitation services for offices, retail spaces, clinics, and shared work environments."
+      },
+      {
+        "slug": "move-in-move-out",
+        "title": "Move-In Move-Out Cleaning",
+        "description": "Detailed cleaning for vacant homes and commercial units before handover, occupancy, or lease closure."
+      },
+      {
+        "slug": "facility-maintenance",
+        "title": "Facility Maintenance",
+        "description": "Scheduled upkeep support for common areas, washrooms, pantries, floors, and high-touch surfaces."
+      }
+    ],
+    "formFields": [
+      {
+        "name": "propertyType",
+        "label": "Property Type",
+        "type": "text"
+      },
+      {
+        "name": "areaSize",
+        "label": "Area Size",
+        "type": "number"
+      },
+      {
+        "name": "cleaningFrequency",
+        "label": "Cleaning Frequency",
+        "type": "text"
+      },
+      {
+        "name": "preferredStartDate",
+        "label": "Preferred Start Date",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "slug": "constructions",
+    "companyName": "UrbanX Constructions",
+    "missionStatement": "To deliver well-planned construction projects with practical design, transparent coordination, and durable execution.",
+    "services": [
+      {
+        "slug": "residential-builds",
+        "title": "Residential Builds",
+        "description": "End-to-end construction services for homes, duplexes, villas, and residential extensions."
+      },
+      {
+        "slug": "commercial-projects",
+        "title": "Commercial Projects",
+        "description": "Construction planning and execution for offices, shops, warehouses, and small commercial developments."
+      },
+      {
+        "slug": "renovation-remodeling",
+        "title": "Renovation & Remodeling",
+        "description": "Interior and structural renovation services for modernizing existing residential or commercial spaces."
+      },
+      {
+        "slug": "project-consultation",
+        "title": "Project Consultation",
+        "description": "Site assessment, budget planning, material guidance, and construction feasibility consultation."
+      }
+    ],
+    "formFields": [
+      {
+        "name": "plotSize",
+        "label": "Plot Size",
+        "type": "number"
+      },
+      {
+        "name": "projectType",
+        "label": "Project Type",
+        "type": "text"
+      },
+      {
+        "name": "budgetRange",
+        "label": "Budget Range",
+        "type": "text"
+      },
+      {
+        "name": "expectedStartDate",
+        "label": "Expected Start Date",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "slug": "furniture",
+    "companyName": "UrbanX Furniture",
+    "missionStatement": "To craft functional, durable, and visually refined furniture solutions for homes, offices, and custom spaces.",
+    "services": [
+      {
+        "slug": "custom-furniture",
+        "title": "Custom Furniture",
+        "description": "Made-to-order furniture designed around room dimensions, material preferences, and everyday usability."
+      },
+      {
+        "slug": "modular-kitchens",
+        "title": "Modular Kitchens",
+        "description": "Modular kitchen design and installation with storage planning, finishes, hardware, and appliance coordination."
+      },
+      {
+        "slug": "office-furniture",
+        "title": "Office Furniture",
+        "description": "Workstations, tables, seating, storage, and conference furniture for productive workplace layouts."
+      },
+      {
+        "slug": "wardrobes-storage",
+        "title": "Wardrobes & Storage",
+        "description": "Custom wardrobes, cabinets, shelves, and storage units built for efficient organization and clean finishes."
+      }
+    ],
+    "formFields": [
+      {
+        "name": "furnitureType",
+        "label": "Furniture Type",
+        "type": "text"
+      },
+      {
+        "name": "roomDimensions",
+        "label": "Room Dimensions",
+        "type": "text"
+      },
+      {
+        "name": "materialPreference",
+        "label": "Material Preference",
+        "type": "text"
+      },
+      {
+        "name": "deliveryTimeline",
+        "label": "Delivery Timeline",
+        "type": "text"
+      }
+    ]
+  }
+]
